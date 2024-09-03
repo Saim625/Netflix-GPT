@@ -20,3 +20,4 @@ export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
 export const SUPPORTED_LANGUAGE = [{identifier: "en", name: "English"},
   {identifier: "urdu", name: "Urdu"},{identifier: "spanish", name: "Spanish"}
 ]
+
