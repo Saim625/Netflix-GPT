@@ -5,7 +5,7 @@ import React from 'react'
 const GptMovieSuggestion = () => {
   // const {movieNames, movieResults} = useSelector((store) => store.gpt);
   return (
-    <div>GptMovieSuggestion</div>
+    <div></div>
     // <div className='p-4 m-4 bg-black text-white'>
     //   <div>
     //     {movieNames.map((movieName, index)=> (
